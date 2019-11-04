@@ -12,8 +12,8 @@ $merah = "\e[91m";
 echo "$cyan -------------------------------------------------\n";
 echo "$cyan Author   : Aditia Alfiansyah\n";
 echo "$cyan WhatsApp : 085799496179\n";
-echo "$cyan Tools     : Fb Checker\n";
-echo "$cyan Code      : Evil Code\n";
+echo "$cyan Tools    : Fb Checker\n";
+echo "$cyan Code     : Evil Code\n";
 echo "$cyan --------------------------------------------------\n";
 if(isset($argv[1])) {
     if(file_exists($argv[1])) {
